@@ -1,0 +1,12 @@
+body {
+    height: 300vh;
+    display: 'flex',
+    justifyContent: 'center',
+    background: '#'
+}
+
+*{
+    margin: '0',
+padding: '0',
+boxSizing: 'border-box'
+}
